@@ -1,0 +1,32 @@
+*{
+
+     margin:0px;
+     padding:0px;
+     }
+
+
+div#para qué sirve{
+
+    margin:auto;
+    margin-top:50px;
+    width:900px;
+    height:600px;
+    background-color:pink;
+}
+
+
+div#qué es{
+  
+    float:right;
+    width:300px
+    height:500px;
+    background-color:blue;
+}
+
+div#tipos{
+
+    margin-top:25px;
+    width:650px;
+    height:600px
+    background-color:green;
+}
